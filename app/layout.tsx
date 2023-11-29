@@ -41,6 +41,7 @@ export default function RootLayout({
                 y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
               })(window, document, "clarity", "script", "jug24j9fyn");
             `,
+            
           }}
         />
         <meta name="config" content={JSON.stringify(getClientConfig())} />
