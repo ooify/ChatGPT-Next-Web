@@ -42,7 +42,6 @@ export default function RootLayout({
               })(window, document, "clarity", "script", "jug24j9fyn");
             `,
             
-            
           }}
         />
         <meta name="config" content={JSON.stringify(getClientConfig())} />
